@@ -1,0 +1,13 @@
+#avatar{
+    width: 200px;
+    height: 200px;
+    
+} 
+#fotos{
+	width: 40px;
+	height: 40px;
+	margin: 0px auto 2px;
+    display: block;
+    top: 15px;
+    border-radius: 50%;
+}
